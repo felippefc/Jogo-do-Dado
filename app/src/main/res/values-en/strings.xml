@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="titulo_principal">Throw the dice</string>
+    <string name="texto_botão">Play</string>
+    <string name="valor_repetido">Repeated value</string>
+</resources>
