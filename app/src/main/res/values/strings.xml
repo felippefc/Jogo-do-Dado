@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Jogo do dado</string>
+    <string name="app_name" translatable="false">Jogo do dado</string>
+    <string name="titulo_principal">Jogar Dado</string>
+    <string name="texto_botão">Jogar</string>
+    <string name="valor_repetido">Valor repetido</string>
 </resources>

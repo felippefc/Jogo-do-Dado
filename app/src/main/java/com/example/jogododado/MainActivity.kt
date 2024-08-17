@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
                  6 -> imagem.setImageResource(R.drawable.dice6)
             }
             if(numero == ultimoValor) {
-                Toast.makeText(this, "Valor repetido",Toast.LENGTH_LONG).show()
+                Toast.makeText(this, getString(R.string.valor_repetido),Toast.LENGTH_LONG).show()
             }
             ultimoValor = numero
 
